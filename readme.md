@@ -17,6 +17,8 @@
 
 <a href="https://visitor-badge.laobi.icu/badge?page_id=alsiamworld.visitor-badge&title=Visits"><img src="https://visitor-badge.laobi.icu/badge?page_id=alsiamworld.visitor-badge&title=Visits" align="right" alt="Visits"></a>
 
+[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
+
 <p><br></p>
 <p align="center">
   <a href="https://alsiam.com" target="blank"><img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiamworld" /></a> 
