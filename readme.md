@@ -12,7 +12,7 @@
 <!-- YouTube Stats - https://github.com/DenverCoder1/github-readme-youtube-stats -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 
-[Google Me](https://www.google.com/search?q=alsiamworld){:target="_blank" rel="noopener"}
+[GoogleMe](https://www.google.com/search?q=alsiamworld)
 <a href="https://github.com/alsiamworld/alsiam/"><img src="https://github.com/vidyabhandary/vidyabhandary/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a>
 
 <a href="https://visitor-badge.laobi.icu/badge?page_id=alsiam.visitor-badge&title=Visits"><img src="https://visitor-badge.laobi.icu/badge?page_id=alsiam.visitor-badge&title=Visits" align="right" alt="Visits"></a>
