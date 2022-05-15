@@ -68,7 +68,12 @@
 <br/>
 <br/>
 
-
+<!-- GitHub Streak stats by DenverCoder1 - hhttps://github.com/DenverCoder1/github-readme-streak-stats -->
+<p align="center">
+  <a href="https://github.com/alsiam">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&hide_border=true&background=1F222E" alt="Saif's GitHub streak"/>
+  </a>
+</p>
 
 
 ## 📊 Github stats
