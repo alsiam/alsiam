@@ -12,8 +12,7 @@
 <!-- YouTube Stats - https://github.com/DenverCoder1/github-readme-youtube-stats -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 
-[GoogleMe](https://www.google.com/search?q=saif+al+siam)
-<a href="https://github.com/alsiamworld/alsiam/"><img src="https://github.com/vidyabhandary/vidyabhandary/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a>
+[Google Me](https://www.google.com/search?q=saif+al+siam)
 
 <a href="https://visitor-badge.laobi.icu/badge?page_id=alsiam.visitor-badge&title=Visits"><img src="https://visitor-badge.laobi.icu/badge?page_id=alsiam.visitor-badge&title=Visits" align="right" alt="Visits"></a>
 
@@ -28,7 +27,21 @@
     <a href="https://facebook.com/alsiam.me" target="blank"><img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiamworld"  /></a> 
 </p>
 
-## 📘 My top open source projects
+<br />
+
+<!-- Programmer Gif Image -->
+<img align="right" src="/assets/programmer.gif" alt="Coding gif" width="400px" />
+
+### About me
+
+✌️ &emsp;Enjoy to do programming and sharing knowledge <br/><br/>
+❤️ &emsp;Love to writing code and learning new feaures<br/><br/>
+📧 &emsp;Reach me anytime: saif@alsiam.com<br/><br/>
+💬 &emsp;Ask me about anything [here](https://github.com/alsiam/alsiam/issues)
+
+<p><br/></p>
+
+## 📘 My Top Open Source Projects -
 
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
@@ -45,43 +58,23 @@
   <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
-<!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
+<br/>
 
-## 🛠️ Familar With 
 
-<p>
-    <code href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></code>
-    <code href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></code>
-    <code href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></code>
-    <code href="#"><img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></code>
-    <code href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></code>
-    <code href="#"><img alt="SASS" src="https://img.shields.io/badge/Sass%20-hotpink.svg?logo=SASS&logoColor=white"></code>
-    <code href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%234D97FF.svg?logo=Bootstrap&logoColor=white"></code>
-    <code href="#"><img alt="jQery" src="https://img.shields.io/badge/jQery%20-%23430098.svg?logo=jQery&logoColor=white"></code>
+### Things I code with
 
-  
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Next.js Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#) [![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) [![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#) [![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)](#) [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)](#) [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
+
+<br/>
+<br/>
+
+<!-- GitHub Streak stats by DenverCoder1 - hhttps://github.com/DenverCoder1/github-readme-streak-stats -->
+<p align="center">
+  <a href="https://github.com/alsiam">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&hide_border=true&background=1F222E" alt="Saif's GitHub streak"/>
+  </a>
 </p>
 
-## 🛠️ Comfortabel With
-<p>
-    <code href="#"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></code>
-    <code href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></code>
-    <code href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?logo=express&logoColor=white"></code>
-    <code href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20- %23007ACC.svg?logo=typescript&logoColor=white"></code>
-    <code href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></code>
-
-</p>
-
-## 🛠️ Tools
-
-<p>
-    <code href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></code>
-    <code href="#"><img alt="Github" src="https://img.shields.io/badge/Github%20-%23F05033.svg?logo=github&logoColor=white"></code>
-    <code href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></code>
-    <code href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></code>
-    <code href="#"><img alt="Dev" src="https://img.shields.io/badge/Dev-FE7A16?logo=stack-dev&logoColor=white"></code>
-    <code href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></code>
-</p>
 
 ## 📊 Github stats
 
@@ -96,3 +89,4 @@
 <p></p>
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://github.com/alsiam"><img alt="Al Siam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=alsiam&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
