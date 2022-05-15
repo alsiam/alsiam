@@ -29,7 +29,17 @@
 
 <br />
 
+<!-- Programmer Gif Image -->
+<img align="right" src="/assets/programmer.gif" alt="Coding gif" width="400px" />
 
+### About me
+
+✌️ &emsp;Enjoy to do programming and sharing knowledge <br/><br/>
+❤️ &emsp;Love to writing code and learning new feaures<br/><br/>
+📧 &emsp;Reach me anytime: saif@alsiam.com<br/><br/>
+💬 &emsp;Ask me about anything [here](https://github.com/alsiam/alsiam/issues)
+
+<p><br/></p>
 
 ## 📘 My Top Open Source Projects -
 
