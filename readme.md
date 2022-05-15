@@ -30,7 +30,7 @@
 <br />
 
 <!-- Programmer Gif Image -->
-<img align="right" src="/assets/programmer.gif" alt="Coding gif" width="400px" />
+<img align="right" src="/assets/programmer.gif" alt="Coding gif" width="350px" />
 
 ### About me
 
