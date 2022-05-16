@@ -8,13 +8,12 @@
   <a href="https://github.com/alsiam"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
-<!-- Badges template - https://github.com/badges/shields -->
-<!-- YouTube Stats - https://github.com/DenverCoder1/github-readme-youtube-stats -->
-<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 
 [Google Me](https://www.google.com/search?q=saif+al+siam)
 
-<a href="https://visitor-badge.laobi.icu/badge?page_id=alsiam.visitor-badge&title=Visits"><img src="https://visitor-badge.laobi.icu/badge?page_id=alsiam.visitor-badge&title=Visits" align="right" alt="Visits"></a>
+<a href="https://gpvc.arturio.dev/alsiam"><img src="https://gpvc.arturio.dev/alsiam" align="right" alt="Visits"></a>
+
+<!-- <a href="https://visitor-badge.laobi.icu/badge?page_id=alsiam.visitor-badge&title=Visits"><img src="https://visitor-badge.laobi.icu/badge?page_id=alsiam.visitor-badge&title=Visits" align="right" alt="Visits"></a> -->
 
 [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
 
