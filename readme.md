@@ -30,16 +30,16 @@
 <br />
 
 <!-- Programmer Gif Image -->
-### About me
+<img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
 
-<img align="right" src="/assets/programmer.gif" alt="Coding gif" width="350px" />
+### About me
 
 ✌️ &emsp;Enjoy to do programming and sharing knowledge <br/><br/>
 ❤️ &emsp;Love to writing code and learning new features<br/><br/>
 📧 &emsp;Reach me anytime: saif@alsiam.com<br/><br/>
 💬 &emsp;Ask me about anything [here](https://github.com/alsiam/alsiam/issues)
 
-<p><br/></p>
+<p><br></p>
 
 <!-- Commented My top Open Sources Projects -->
 <!-- _________________________________________________________________________________________________ -->
