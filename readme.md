@@ -30,9 +30,9 @@
 <br />
 
 <!-- Programmer Gif Image -->
-<img align="right" src="/assets/programmer.gif" alt="Coding gif" width="350px" />
-
 ### About me
+
+<img align="right" src="/assets/programmer.gif" alt="Coding gif" width="350px" />
 
 ✌️ &emsp;Enjoy to do programming and sharing knowledge <br/><br/>
 ❤️ &emsp;Love to writing code and learning new features<br/><br/>
