@@ -9,11 +9,13 @@
 </p>
 
 
-[Google Me](https://www.google.com/search?q=saif+al+siam)
+[Google Me](https://www.google.com/search?q=Saif+Al+Siam)
 
 <a href="https://gpvc.arturio.dev/alsiam"><img src="https://gpvc.arturio.dev/alsiam" align="right" alt="Visits"></a>
 
-<!-- <a href="https://visitor-badge.laobi.icu/badge?page_id=alsiam.visitor-badge&title=Visits"><img src="https://visitor-badge.laobi.icu/badge?page_id=alsiam.visitor-badge&title=Visits" align="right" alt="Visits"></a> -->
+ <a href="https://visitor-badge.laobi.icu/badge?page_id=alsiam.visitor-badge&title=Visits"><img src="https://visitor-badge.laobi.icu/badge?page_id=alsiam.visitor-badge&title=Visits" align="right" alt="Visits"></a>
+ 
+ 
 
 [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
 
@@ -86,4 +88,8 @@
 <p></p>
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://github.com/alsiam"><img alt="Al Siam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=alsiam&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+ <a href="https://github.com/alsiam/">
+    <img src="https://komarev.com/ghpvc/?username=alsiam" alt="visitors" />
+  </a>
 
