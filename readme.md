@@ -10,16 +10,12 @@
 <p align="center">
   <a href="https://github.com/alsiam"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
- 
+
  -->
 
 [Google Me](https://www.google.com/search?q=Saif+Al+Siam)
 
 <a href="https://gpvc.arturio.dev/alsiam"><img src="https://gpvc.arturio.dev/alsiam" align="right" alt="Visits"></a>
-
-
- 
- 
 
 [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
 
@@ -47,27 +43,23 @@
 
 <p><br></p>
 
-<!-- Commented My top Open Sources Projects -->
+<!-- My top Open Sources Projects -->
 <!-- _________________________________________________________________________________________________ -->
 
-<!-- ## 📘 My Top Open Source Projects -
-<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-<!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-<!-- <p align="left">
-  <a href="https://github.com/alsiam/alsiam" target="blank"><img width="32.5%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="alsiam-readme-file"></a>
-  <a href="https://github.com/alsiam/cuda-portfolio" target="blank"><img width="32.5%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=cuda-portfolio&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="cuda-portfolio"></a>
-  <a href="https://github.com/alsiam/altube" target="blank"><img width="32.5%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=altube&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="altube"></a>
- <a href="https://github.com/alsiam/fashion-ecommerce" target="blank"><img width="32.5%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=fashion-ecommerce&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="fashion-ecommerce"></a>
-  <a href="https://github.com/alsiam/jamuna-news" target="blank"><img width="32.5%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=jamuna-news&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="jamuna-news"></a>
-  <a href="https://github.com/alsiam/spourmo" target="blank"><img width="32.5%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=spourmo&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="spourmo-psd"></a>
+## 📘 My Top Open Source Projects -
+
+<br/>
+ <p align="left">
+  <a href="https://github.com/alsiam/alsiam" target="_blank"><img width="32.5%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="alsiam overview"></a>
+  <a href="https://github.com/alsiam/portfolio" target="blank"><img width="32.5%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=portfolio&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="portfolio"></a>
+  <a href="https://github.com/alsiam/problem-solving" target="blank"><img width="32.5%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=problem-solving&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="problem-solving"></a>
 </p>
 
 <p align="left">
   <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p> 
+</p>
 
-<br/> -->
-
+<br/>
 
 ### Use to Code:
 
@@ -93,4 +85,4 @@
     <img src="https://komarev.com/ghpvc/?username=alsiam" alt="visitors" />
   </a>
 
- <a href="https://visitor-badge.laobi.icu/badge?page_id=alsiam.visitor-badge&title=Visits"><img src="https://visitor-badge.laobi.icu/badge?page_id=alsiam.visitor-badge&title=Visits" align="right" alt="Visits"></a>
+<a href="https://visitor-badge.laobi.icu/badge?page_id=alsiam.visitor-badge&title=Visits"><img src="https://visitor-badge.laobi.icu/badge?page_id=alsiam.visitor-badge&title=Visits" align="right" alt="Visits"></a>
