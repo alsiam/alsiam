@@ -19,16 +19,12 @@
 
 [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
 
-<br/>
-
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="https://alsiam.com">Saif Al Siam</a></b>
         </samp>
 </h3>
-<br>
-
 <p align="center">
         <!-- Organisation  -->
         <samp>
@@ -37,6 +33,7 @@
                 「 I am a full stack web appplication developer from <b>Bangladesh</b> 」
                 <br>
                 <br>
+          <br><br>
         </samp>
         <!-- Programming Languages -->
         <!-- Code logo -->
