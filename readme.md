@@ -82,7 +82,7 @@
 
 <!-- Details Section-->
 <details align="center">
-    <summary> <samp>&#9776; About</samp></summary>
+    <summary> <h1>&#9776; About</h1></summary>
     <p align="center">
         <p>Find me on</p>
   
