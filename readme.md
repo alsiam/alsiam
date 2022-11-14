@@ -51,21 +51,21 @@
 <br/>
 <p align="center">
 <a href="https://github.com/alsiam/alsiam">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
 </a>
 <span>&nbsp;</span>
 <a href="https://github.com/alsiam/alfolio">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alfolio&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
 </a>
 </p>
 
 <p align="center">
 <a href="https://github.com/alsiam/problem-solving">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=problem-solving&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=problem-solving&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
 </a>
 <span>&nbsp;</span>
 <a href="https://github.com/alsiam/alsiam.github.io">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam.github.io&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
 </a>
 </p>
 
@@ -83,20 +83,14 @@
 
 <p align="center">
   <a href="https://github.com/alsiam">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&hide_border=true&background=1F222E" alt="Saif's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/alsiam"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=alsiam&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/alsiam"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=alsiam&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/alsiam"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=alsiam&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/alsiam"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=alsiam&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 <p></p>
-<a href="https://github.com/alsiam"><img alt="Al Siam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=alsiam&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
- <a href="https://github.com/alsiam/">
-    <img src="https://komarev.com/ghpvc/?username=alsiam" alt="visitors" />
-  </a>
-
-<a href="https://visitor-badge.laobi.icu/badge?page_id=alsiam.visitor-badge&title=Visits"><img src="https://visitor-badge.laobi.icu/badge?page_id=alsiam.visitor-badge&title=Visits" align="right" alt="Visits"></a>
+<a href="https://github.com/alsiam"><img alt="Al Siam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=alsiam&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&border_color=7F3FBF" /></a>
