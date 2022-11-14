@@ -49,10 +49,24 @@
 ## 📘 My Top Open Source Projects -
 
 <br/>
- <p align="left">
-  <a href="https://github.com/alsiam/alsiam" target="_blank"><img width="32.5%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="alsiam overview"></a>
-  <a href="https://github.com/alsiam/alfolio" target="blank"><img width="32.5%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alfolio&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="alfolio"></a>
-  <a href="https://github.com/alsiam/problem-solving" target="blank"><img width="32.5%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=problem-solving&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="problem-solving"></a>
+<p align="center">
+<a href="https://github.com/alsiam/alsiam">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
+<span>&nbsp;</span>
+<a href="https://github.com/alsiam/alfolio">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alfolio&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/alsiam/problem-solving">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=problem-solving&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
+<span>&nbsp;</span>
+<a href="https://github.com/alsiam/alsiam.github.io">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam.github.io&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
 </p>
 
 <p align="left">
