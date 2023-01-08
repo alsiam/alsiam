@@ -148,4 +148,4 @@
   <br/>
 </a>
 <p></p>
-<a href="https://github.com/alsiam"><img alt="Al Siam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=alsiam&bg_color=0D1117&color=FFFFFF&line=7F3FBF&point=FFFFFF&border_color=7F3FBF" /></a>
+<a href="https://github.com/alsiam"><img alt="Al Siam's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=alsiam&bg_color=0D1117&color=FFFFFF&line=7F3FBF&point=FFFFFF&border_color=7F3FBF" /></a>
