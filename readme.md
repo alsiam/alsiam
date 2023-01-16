@@ -110,21 +110,21 @@
 <br/>
 <p align="center">
 <a href="https://github.com/alsiam/alsiam">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
+<img width='49%' align="center"src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=alsiam&repo=alsiam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
 </a>
 <span>&nbsp;</span>
 <a href="https://github.com/alsiam/alfolio">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
+<img width='49%' align="center"src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=alsiam&repo=alfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
 </a>
 </p>
 
 <p align="center">
 <a href="https://github.com/alsiam/problem-solving">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=problem-solving&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
+<img width='49%' align="center"src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=alsiam&repo=problem-solving&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
 </a>
 <span>&nbsp;</span>
 <a href="https://github.com/alsiam/alsiam.github.io">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
+<img width='49%' align="center"src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=alsiam&repo=alsiam.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
 </a>
 </p>
 
