@@ -55,17 +55,25 @@
   </a> 
 </p>
 <br />
-<img align="right" width="350" src="/assets/programming.gif" alt="Coding gif" />
 
-## About me
+<!-- About Section -->
+ # About me
+ 
+<p align="center">
+ <img align="right" width="350" src="/assets/programming.gif" alt="Coding gif" />
+  
+ ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
+ ❤️ &emsp; Love to writing code and learning new features<br/><br/>
+ 📧 &emsp; Reach me anytime: saif@alsiam.com<br/><br/>
+ 💬 &emsp; Ask me about anything [here](https://github.com/alsiam/alsiam/issues)
 
-✌️ &emsp;Enjoy to do programming and sharing knowledge <br/><br/>
-❤️ &emsp;Love to writing code and learning new features<br/><br/>
-📧 &emsp;Reach me anytime: saif@alsiam.com<br/><br/>
-💬 &emsp;Ask me about anything [here](https://github.com/alsiam/alsiam/issues)
+</p>
 
+<br/>
+<br/>
+<br/>
 
-### Things I code with
+## Use To Code
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=flat-square&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=flat-square&labelColor=black&logo=typescript&logoColor=007acc)
