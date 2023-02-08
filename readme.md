@@ -59,7 +59,7 @@
 <!-- About Section -->
  # About me
  
-<p align="center">
+<p>
  <img align="right" width="350" src="/assets/programming.gif" alt="Coding gif" />
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
