@@ -108,25 +108,10 @@
 ## 📘 My Top Open Source Projects -
 
 <br/>
-<p align="center">
-<a href="https://github.com/alsiam/alsiam">
-<img width='49%' align="center"src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=alsiam&repo=alsiam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
-</a>
-<span>&nbsp;</span>
-<a href="https://github.com/alsiam/alfolio">
-<img width='49%' align="center"src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=alsiam&repo=alfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
-</a>
-</p>
 
-<p align="center">
-<a href="https://github.com/alsiam/problem-solving">
-<img width='49%' align="center"src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=alsiam&repo=problem-solving&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
-</a>
-<span>&nbsp;</span>
-<a href="https://github.com/alsiam/alsiam.github.io">
-<img width='49%' align="center"src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=alsiam&repo=alsiam.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
-</a>
-</p>
+[![Web Design Lab](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=web-design-lab&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/web-design-lab)
+[![Al Folio](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=al-folio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/al-folio)
+[![Al Siam](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/alsiam)
 
 <p align="left">
   <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
