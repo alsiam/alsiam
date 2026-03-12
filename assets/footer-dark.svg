@@ -1,0 +1,54 @@
+<svg width="1200" height="120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0070F3;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#00DFD8;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0070F3;stop-opacity:1" />
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    @keyframes shimmer {
+      0% { transform: translateX(-100%); }
+      100% { transform: translateX(100%); }
+    }
+    .shimmer-line {
+      animation: shimmer 3s ease-in-out infinite;
+    }
+  </style>
+
+  <!-- Background -->
+  <rect width="1200" height="120" fill="#000000"/>
+
+  <!-- Top accent line -->
+  <rect x="0" y="0" width="1200" height="2" fill="url(#grad)" filter="url(#glow)"/>
+
+  <!-- Shimmer overlay -->
+  <clipPath id="lineClip">
+    <rect x="0" y="0" width="1200" height="2"/>
+  </clipPath>
+  <g clip-path="url(#lineClip)">
+    <rect class="shimmer-line" x="0" y="0" width="600" height="2" fill="url(#grad)" opacity="0.6"/>
+  </g>
+
+  <!-- Decorative line -->
+  <line x1="450" y1="45" x2="750" y2="45" stroke="#333333" stroke-width="0.5"/>
+  <circle cx="600" cy="45" r="2" fill="#0070F3" filter="url(#glow)"/>
+
+  <!-- Text -->
+  <text x="600" y="72" text-anchor="middle" fill="#888888" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="13" font-weight="400" letter-spacing="3">
+    THANKS FOR VISITING
+  </text>
+
+  <!-- Triangle -->
+  <g transform="translate(600, 98)">
+    <polygon points="0,-8 7,5 -7,5" fill="none" stroke="#444444" stroke-width="1" opacity="0.5"/>
+  </g>
+</svg>
