@@ -81,16 +81,16 @@ const alsiam = {
   <a href="https://github.com/alsiam/itasks">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=itasks&bg_color=000000&title_color=FFFFFF&text_color=888888&icon_color=0070F3&border_color=333333&hide_border=false" alt="iTasks" />
   </a>&nbsp;&nbsp;
-  <a href="https://github.com/alsiam/urfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=urfolio&bg_color=000000&title_color=FFFFFF&text_color=888888&icon_color=0070F3&border_color=333333&hide_border=false" alt="urFolio" />
+  <a href="https://github.com/alsiam/folio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=folio&bg_color=000000&title_color=FFFFFF&text_color=888888&icon_color=0070F3&border_color=333333&hide_border=false" alt="folio" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/alsiam/web-projects">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=web-projects&bg_color=000000&title_color=FFFFFF&text_color=888888&icon_color=0070F3&border_color=333333&hide_border=false" alt="Web Projects" />
   </a>&nbsp;&nbsp;
-  <a href="https://github.com/alsiam/alsiam">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam&bg_color=000000&title_color=FFFFFF&text_color=888888&icon_color=0070F3&border_color=333333&hide_border=false" alt="Profile README" />
+  <a href="https://github.com/alsiam/readme">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=readme&bg_color=000000&title_color=FFFFFF&text_color=888888&icon_color=0070F3&border_color=333333&hide_border=false" alt="Profile README" />
   </a>
 </p>
 
